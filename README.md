@@ -19,7 +19,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🗺️ Map Visualizations for Geospatial Data
 * 🔢 KPI Cards & Detailed Data Tables
 * 🖱️ Interactive Slicers for Filtering
-* 🔘 Buttons & Bookmarks for Page Navigation
+* 🔘 Buttons & Bookmarks for Page Navigation 
 * ➡️ Drill-Through Functionality
 
 [➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
